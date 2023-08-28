@@ -1,0 +1,40 @@
+html, body {
+        margin: 0;
+        padding: 0;
+        width: 100wh;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 119px;
+    height: 119px;
+}
+
+section{
+    justify-content: center;
+}
+
+.casas {
+    width: 120px;
+    height: 120px;
+}
+
+.linhas {
+    display: flex;
+}
+
+.linhaR {
+    border-right: 1px solid black;
+}
+
+.linhaB {
+    border-bottom: 1px solid black;
+}
+
+
